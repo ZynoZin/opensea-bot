@@ -1,5 +1,5 @@
 {
     "token": "<BOT_TOKEN>",
     "apiKey" : "<API_KEY>",
-    "dbURL": "<MONGO_DB_URL"
+    "dbURL": "<MONGO_DB_URL>"
 }
